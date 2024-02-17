@@ -1,0 +1,20 @@
+HTML AND CSS layout design
+--------------------------
+1. <div> : division -> div is container
+in html5 we also use <section> tag instated of <div> tag
+
+  . "Sementic tag" -> a tag that defines itself their name
+ <nav> -> for creating menu bar
+ <audio> , <video> 
+
+2.img:-> to place the images on a page we use img tag. We pass some attribute to the img tag
+(attribute -> is nothing but extra information about the tag.)
+<img src="path of image", alt="instated of image , when slow internet" height= , width= />
+
+3. headings : <h1> to <h6>
+
+4. <p> : paregraph tag
+
+5. <b> : to bold text , <i> : to italic text
+
+6. OL and UL tags : this can be used for to create menu
