@@ -1,5 +1,8 @@
 HTML AND CSS layout design
 --------------------------
+* For alines In HTML Code use --> Alt+Shift+f
+* To open on Mobile also --> 192.168.46.31:5500/work1.html
+
 1. <div> : division -> div is container
 in html5 we also use <section> tag instated of <div> tag
 
@@ -18,3 +21,58 @@ in html5 we also use <section> tag instated of <div> tag
 5. <b> : to bold text , <i> : to italic text
 
 6. OL and UL tags : this can be used for to create menu
+
+7. a : anchor tag : to move from one page to another page
+ <a href="link of page name"/>
+
+----------------------------------------------------------------------------------------
+ 
+CSS
+-----
+
+1.width -> min-width , max-width ---- measure in -> px, em, rem, vw(viewport width, %)
+2.height -> min-height , max-height
+3.font-family : all font are in 
+4.font-size : px, em
+5.font-weight: bold, itelic
+6.background-color : colorname, hexacode, rgb value
+7.border: width, type, color
+8.border-radius: (kopre kshe asayla pahije)
+9.margin: to adjust the outer space(Top,Right,Bottom,Left)
+  margin:10px;(all side 10px)
+  margin:10px,20px;(top & bottom=10px AND right & left=20px)
+  margin-top:
+10. padding: to adjust internal space.
+    padding:10px 
+    padding:20px 40px
+    padding:10px 20px 10px 30px(T,R,B,L)
+==================================================================
+
+CSS Selector:
+----------
+Selector is nothing but it is targatting element.
+
+Types :
+
+1.id --> we can call with the help of  " # "
+2.class ---> we can call with the help of  " . " 
+3.tag --->  we can call with their name
+4.group ---> we can make a group of (h1,h2,p)
+5.universal selector ---> it affects on hole body of page "*"
+6.tag with class ---> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
