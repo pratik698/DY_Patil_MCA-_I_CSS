@@ -62,6 +62,21 @@ Types :
 6.tag with class ---> 
 
 
+------------x----------x-------------x---------------x-----------
+date :  23/2/2024
+
+**  MENU designing **
+
+logo           menus
+
+	slider
+
+
+sidebar          body
+
+
+	footer
+
 
 
 
