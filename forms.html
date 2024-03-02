@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+
+<style>
+    .box{
+        width: 80%;
+        min-height: 200px;
+        border: 5px solid black;
+        margin: 140px auto;
+        border-top-right-radius: 50%;
+        border-bottom-left-radius: 50%;
+        border-left: 0;
+        border-right: 0;
+        border-top-color: blueviolet;
+        border-right-color: cadetblue;
+    }
+
+    .heading
+    {
+        width: 100%;
+        min-height: 50px;
+    }
+    .heading h2{
+        text-align: center;
+    }
+    .body
+    {
+        color: aqua;
+    }
+
+    form{
+
+    
+        label
+        {
+            color: black;
+            width: 100%;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: medium;
+            margin-left: 20px;
+        }
+        input[type=text]{
+            width: 90%;
+            padding: 10px 10px;
+            margin-left: 20px;
+            background-color: aquamarine;
+
+        }
+        input[type=password]{
+            width: 90%;
+            padding: 10px 10px;
+            margin-top: 10px;
+            margin-left: 10px;
+            background-color: blueviolet;
+
+        }
+    }
+
+input[type=submit]
+{
+    width: 95%;
+    padding: 10px 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+input[type=submit]:hover
+{
+    background-color: aqua;
+    color: red;
+}
+
+    
+</style>
+
+</head>
+<body>
+    <div class="box">
+        <div class="heading">
+            <h2>Login here</h2>
+        </div>
+        <form>
+            <label for="txtusername">Enter username</label>
+            <input type="text" id="txtusername">
+
+            <label for="txtupass">Enter password</label>
+            <input type="psssword" id="txtpass">
+
+                <input type="submit" id="login">
+
+
+        </form>
+    </div>
+</body>
+</html>

@@ -79,6 +79,82 @@ sidebar          body
 
 
 
+==================================================================================
+
+1/03/2024
+
+Technology :- flex and grid
+
+flex
+------
+display:properties
+	flex
+	grid
+	block
+	inline
+	inline-block
+	table
+
+flex :- is use to create flexible boxes
+ 
+box -- div
+
+flex --> row or column
+display: flex
+gap
+flex-direction: row/clm
+justify-content --> Horizontal
+align-items --> Vertical
+
+-----------------------------------------------------------
+Responsive site we can write media query using css
+----------------------------------------------------------
+Media has two types
+1.screen
+2.print
+
+max-width: 768px;
+min-width/; 
+
+
+
+syntax:
+-----
+@media only scree and (max-width : breakpoints)
+{
+	
+}
+--------------------
+
+ * HTML Form Designing
+-----------------
+
+<form action=""method="">
+	</form>
+
+
+methods
+---------
+post :- insert the data into database
+get :- display the data from database
+put :- to update  the data 
+delete :-
+patch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
